@@ -32,14 +32,16 @@ The Typing Test Console Application is a simple C++ program designed to test and
 6.  To view the leaderboard, select "ScoreBoard" from the main menu.
 
 
-## Screenshots
+## Screenshots and Clips
 
-[https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/5031b099-426a-493e-b725-78cd8626056b](https://github-production-user-asset-6210df.s3.amazonaws.com/38837994/269998267-5031b099-426a-493e-b725-78cd8626056b.mp4)
-<br>
-https://github-production-user-asset-6210df.s3.amazonaws.com/38837994/269998520-fe47b187-2909-4dff-b295-e7e23d5f7d81.mp4 
-<br>
-[https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/fe47b187-2909-4dff-b295-e7e23d5f7d81](https://github-production-user-asset-6210df.s3.amazonaws.com/38837994/269998659-43f4314d-689e-4294-856e-2a9af6156151.mp4)
-<br>
+> Typing Test Start
+https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/5031b099-426a-493e-b725-78cd8626056b
+
+> Save Test Scores
+https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/fe47b187-2909-4dff-b295-e7e23d5f7d81
+
+> Scoreboard
+https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/43f4314d-689e-4294-856e-2a9af6156151
 
 
 ## Contributing
