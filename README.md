@@ -34,14 +34,14 @@ The Typing Test Console Application is a simple C++ program designed to test and
 
 ## Clips and Screenshots
 
-> **Typing Test Start** 
-> https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/5031b099-426a-493e-b725-78cd8626056b
+> **Typing Test Start**
+<br> https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/5031b099-426a-493e-b725-78cd8626056b
 
 > **Save Test Scores**
-> https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/fe47b187-2909-4dff-b295-e7e23d5f7d81
+<br> https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/fe47b187-2909-4dff-b295-e7e23d5f7d81
 
 > **Scoreboard**
-> https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/43f4314d-689e-4294-856e-2a9af6156151
+<br> https://github.com/mohitdhami/Typing-Test-CUI/assets/38837994/43f4314d-689e-4294-856e-2a9af6156151
 
 
 ## Contributing
@@ -50,8 +50,7 @@ Contributions to this project are welcome. If you have ideas for improvements, b
 
 ## Recompilation Steps (Windows only)
 > Requirements: C++ compiler (e.g., GCC, Visual C++)
-> **NOTE (Linux Users)** 
-> The code in this project may not be compatible with Linux systems due to the utilization of certain libraries or APIs that are designed exclusively for the Windows platform.
+
 
 1.  Clone or download the project from the [GitHub repository](https://github.com/mohitdhami/Typing-Test-CUI).
     
@@ -65,6 +64,11 @@ Contributions to this project are welcome. If you have ideas for improvements, b
     
 4.  Run the application:  
     `./typing_test`
+
+<br>
+
+**NOTE (Linux Users)** 
+> The code in this project may not be compatible with Linux systems due to the utilization of certain libraries or APIs that are designed exclusively for the Windows platform.
 
 Thank you for visiting our GitHub repository! We appreciate your interest and support. If you have any questions, encounter issues, or would like to contribute to the project, please don't hesitate to get in touch with us. Your feedback and collaboration are valuable to us as we continue to improve and expand this project.
 
